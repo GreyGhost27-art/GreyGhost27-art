@@ -1,7 +1,7 @@
 ## Ash here <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 I’m **Ash (Grey)**, a **Designer & Tinkerer** with a background in **Game Design and Development**.  
-Currently an **Freelancer**.  
+Currently a **Freelancer**.  
 I design, build, and experiment with **UI/UX, Concept Art, Digital Art, and AI tools**.  
 Im not a Dev 
 
