@@ -1,4 +1,4 @@
-## It's Grey... <img src="path/to/ghost.gif" width="30px" width="30px">
+## It's Grey... <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="40px">
 
 I’m **Ash (Grey)**, a **Designer & Tinkerer** with a background in **Game Design and Development**.  
 Currently a **Freelancer**.  
