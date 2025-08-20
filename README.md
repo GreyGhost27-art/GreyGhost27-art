@@ -1,4 +1,4 @@
-## It's Grey... <img src="https://giphy.com/stickers/pastel-weheartit-YoypIsUmXXI52" width="40px">
+## It's Grey... <img src="[https://giphy.com/stickers/pastel-weheartit-YoypIsUmXXI52](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3pzbGNpOWhpNjhwNWIzemEwYWJmZzFxYXY1bHd6YTkzYnM5b3FhciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YoypIsUmXXI52/giphy.gif)" width="40px">
 
 I’m **Ash (Grey)**, a **Designer & Tinkerer** with a background in **Game Design and Development**.  
 Currently a **Freelancer**.  
