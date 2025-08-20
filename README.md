@@ -1,4 +1,4 @@
-## Ash here <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## It's Grey... <img src="path/to/ghost.gif" width="30px" width="30px">
 
 I’m **Ash (Grey)**, a **Designer & Tinkerer** with a background in **Game Design and Development**.  
 Currently a **Freelancer**.  
