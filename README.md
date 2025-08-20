@@ -31,9 +31,9 @@ Im not a Dev
 
 ## 🌐 Socials
 
-[![Linkedin Badge](https://img.shields.io/badge/-Ashwin%20Grey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-profile)](https://www.linkedin.com/in/your-profile)  
-[![Steam Badge](https://img.shields.io/badge/Steam-%23000000.svg?style=flat-square&logo=steam&logoColor=white&link=https://steamcommunity.com/id/your-profile)](https://steamcommunity.com/id/your-profile)  
-[![X Badge](https://img.shields.io/badge/X-%23000000.svg?style=flat-square&logo=x&logoColor=white&link=https://x.com/your-handle)](https://x.com/your-handle)
+[![Linkedin Badge](https://img.shields.io/badge/-Ashwin%20Grey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-profile)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/ashwin-p-72a92216a/))  
+[![Steam Badge](https://img.shields.io/badge/Steam-%23000000.svg?style=flat-square&logo=steam&logoColor=white&link=https://steamcommunity.com/id/your-profile)]([https://steamcommunity.com/id/your-profile](https://steamcommunity.com/id/Ashenpain/))  
+[![X Badge](https://img.shields.io/badge/X-%23000000.svg?style=flat-square&logo=x&logoColor=white&link=https://x.com/your-handle)]([https://x.com/your-handle](https://x.com/greym8bmissing))
 
 ---
 
