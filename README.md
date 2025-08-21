@@ -37,4 +37,4 @@ Im not a Dev
 
 ---
 
-✨ I’m always tinkering with **AI, design, and games**—whether it’s experimenting with **TouchDesigner**, prototyping apps, or creating concept art.  
+✨ I’m almost...mostly tinkering with **AI, design, games and a lot of other stuff** , I am a curious one
