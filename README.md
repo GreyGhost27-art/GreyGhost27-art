@@ -37,4 +37,4 @@ Im not a Dev
 
 ---
 
-✨ I’m almost...mostly tinkering with **AI, design, games and a lot of other stuff** , I am a curious one
+✨ I’m almost...mostly tinkering with **AI, design, games and a lot of other stuff**
